@@ -1,0 +1,17 @@
+﻿  TabS.cpp
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(88): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(90): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(144): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(202): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(205): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(216): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(219): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(225): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(247): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(261): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(268): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(312): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  TabuSearch.cpp
+  Generowanie kodu...
+  TabuSearch.vcxproj -> D:\Studia\PEAProcjectTwo\TabuSearch\Debug\TabuSearch.exe

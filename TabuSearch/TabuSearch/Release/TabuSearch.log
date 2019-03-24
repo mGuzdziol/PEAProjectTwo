@@ -1,0 +1,21 @@
+﻿  TabS.cpp
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(24): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(88): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(90): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(152): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(205): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(208): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(219): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(222): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(228): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(249): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(260): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(267): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\studia\peaprocjecttwo\tabusearch\tabusearch\tabs.cpp(311): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Trwa generowanie kodu
+  1 of 317 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  TabuSearch.vcxproj -> D:\Studia\PEAProcjectTwo\TabuSearch\Release\TabuSearch.exe
